@@ -30,12 +30,10 @@
 
 | **Stats** | **Top Languages** |
 |-----------|------------------|
-| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aboelsoud-dev&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboelosud-dev&layout=compact&theme=radical&hide_border=true) |
+| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aboelsoud-dev&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboelsoud-dev&layout=compact&theme=radical&hide_border=true) |
 
 🔥 **GitHub Streak**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aboelsoud-dev&theme=radical&hide_border=true)
-
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to see your stats.
 
 ---
 
@@ -79,10 +77,8 @@
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** mohammed@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/mohammed](#)  
-- 🐦 **Twitter:** [@mohammed_dev](#)  
-- 🌐 **Portfolio:** [mohammed.dev](#)  
+- 📧 **Email:** aboelsoud109@gmail.com  
+- 💼 **Telegram:** [t.me/AboelsoudDev](#)    
 
 💬 **Ask me about:** Front-end development, learning strategies, and building SaaS products from scratch.
 
