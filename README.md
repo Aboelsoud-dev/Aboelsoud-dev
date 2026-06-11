@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation"/>
 
-💻 **Aspiring Full-Stack Developer** — turning ideas into scalable web applications  
+💻 **Aspiring Full-Stack Developer** ; turning ideas into scalable web applications  
 🌍 Based in **Egypt**  
 🎯 **Mission:** Build useful software & SaaS products that thousands rely on  
 🚀 **Currently:** Deep-diving into React and modern front-end ecosystems
@@ -30,10 +30,10 @@
 
 | **Stats** | **Top Languages** |
 |-----------|------------------|
-| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true) |
+| ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aboelsoud-dev&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboelosud-dev&layout=compact&theme=radical&hide_border=true) |
 
 🔥 **GitHub Streak**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aboelsoud-dev&theme=radical&hide_border=true)
 
 > ⚠️ Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to see your stats.
 
@@ -89,4 +89,4 @@
 ---
 
 ⭐️ *If you like what I'm building, consider starring a repo or dropping a follow!*  
-🚧 *Always learning — feedback and collaborations are welcome.*
+🚧 *Always learning, feedback, and collaborations are welcome.*
